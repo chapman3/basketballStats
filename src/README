@@ -1,0 +1,17 @@
+Basketball Statistics Program
+
+Author: David Chapman
+
+About: 
+	This was an extra assignment for my C/C++ and Unix class.
+
+Program Details:
+	This is a C++ program that reads information related to player statistics for a basketball game 
+	and allows selecting, sorting and display of the information
+
+Use Directions:
+	Compile using a C++11 standard compiler by entering the command "make" then execute the compiled
+	file with the command "main".
+
+Preliminary Program Process Flow Diagram:
+	https://creately.com/diagram/htt4bcsc1/yJ2i2nR8lqf4C7d7ROkT4RdmsnU%3D
